@@ -1,8 +1,10 @@
 <div align="right">
-  <img src="https://img.shields.io/badge/Operational%20Status-(Online%20and%20Stable)-00FF00?style=flat-square&logoColor=white" alt="Operational Status"/>
+<img src="https://img.shields.io/badge/Operational%20Status-Online-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Operational Status"/>
+
 </div>
 
-#  System ID: LEONARDO PIRES
+
+#  System ID: LEONARDO PIRES 👾
 
 > **Compilation Start Date:** 27 cycles  |  **Deployment Location:** Ribeirão Preto - SP  
 > **Current Kernel Version:** 5th Semester, Computer Engineering
@@ -42,13 +44,11 @@
 ### 🌐 System Contacts (Terminal Mode)
 
 <p>
-  <img src="https://img.shields.io/badge/SSH-Online-28A745?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH Online"/>
-  <a href="mailto:sleop485@hotmail.com">
-    <img src="https://img.shields.io/badge/Email_Available-YES-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Available"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lpires08/">
+    <img src="https://img.shields.io/badge/SSH-Online-28A745?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH Online"/>
+    <a href="https://wwwlinkedin.com/in/lpires08/">
     <img src="https://img.shields.io/badge/LinkedIn-Connected-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connected"/>
   </a>
+  
 </p>
 
 ```bash
