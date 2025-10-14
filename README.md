@@ -45,7 +45,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/SSH-Online-28A745?style=for-the-badge&logo=ssh&logoColor=white" alt="SSH Online"/>
-    <a href="https://wwwlinkedin.com/in/lpires08/">
+    <a href="www.linkedin.com/in/lpires08">
     <img src="https://img.shields.io/badge/LinkedIn-Connected-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connected"/>
   </a>
   
