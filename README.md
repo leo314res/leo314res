@@ -6,7 +6,7 @@
 
 #  System ID: LEONARDO PIRES 👾
 
-> **Compilation Start Date:** 27 cycles  |  **Deployment Location:** Ribeirão Preto - SP  
+> **Compilation Start Date:** 11011 cycles  |  **Deployment Location:** Lat. -21.1775, Long. -47.81028  
 > **Current Kernel Version:** 5th Semester, Computer Engineering
 
 ---
