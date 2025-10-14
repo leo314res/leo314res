@@ -53,12 +53,12 @@
 
 ```bash
 # Connect to profile system
-$ ssh leonardo@github-system
+$ ssh leo314res@github-system
 > Authenticating...
 ✔  SSH: Online
 
 # Contacts (direct access)
-$ open https://www.linkedin.com/in/lpires08/
+$ open https://www.linkedin.com/in/lpires08
 # <-- Opens LinkedIn (LEONARDO PIRES)
 
 $ mail send --to sleop485@hotmail.com --subject "Contact via README"
